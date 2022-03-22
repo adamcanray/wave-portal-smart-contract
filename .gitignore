@@ -1,0 +1,22 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+.DS_Store
+
+#Hardhat files
+cache
+artifacts
+
+#precious trash
+contracts/WavePortal.sol.old-1
+contracts/WavePortal.sol.old-2
+contracts/WavePortal.sol.old-3
+scripts/deploy.js.old-1
+scripts/run.js.old-1
+deployed-to-rinkeby_wave-portal-contract-address
+deployed-to-rinkeby_wave-portal-contract-address.old-1
+deployed-to-rinkeby_wave-portal-contract-address.old-2
+deployed-to-rinkeby_wave-portal-contract-address.old-3
+deployed-to-rinkeby_wave-portal-contract-address.old-4
